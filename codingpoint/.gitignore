@@ -1,0 +1,6 @@
+venv/
+db.sqlite3
+.idea/
+/settings.json
+*.log
+/db.sqlite3
